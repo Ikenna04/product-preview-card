@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/Ikenna04/product-card)
 - Live Site URL: (https://ikenna04.github.io/product-card/)
 
 ### Built with
@@ -41,6 +41,7 @@ Users should be able to:
 
 EZEORAH IKENNA PASCHAL
 
-- Website - [Add your name here](https://www.your-site.com)
+<!-- - Website - [Add your name here](https://www.your-site.com) -->
+
 - Frontend Mentor - [@Ikenna04](https://www.frontendmentor.io/profile/Ikenna04)
 - Twitter - [@ikenna004](https://www.twitter.com/ikenna004)
