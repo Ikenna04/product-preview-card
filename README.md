@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Ikenna04/product-card)
-- Live Site URL: (https://ikenna04.github.io/product-card/)
+- Solution URL: (https://github.com/Ikenna04/product-preview-card)
+- Live Site URL: (https://ikenna04.github.io/product-preview-card/)
 
 ### Built with
 
